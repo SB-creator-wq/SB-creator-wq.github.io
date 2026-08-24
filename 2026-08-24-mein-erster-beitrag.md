@@ -6,5 +6,5 @@ Kategorie: Themasuche
 
 ### Themasuche
 
-Am ersten Tag des Projekts überdenken wir unser Thema. Momentan schwanken wir zwischen einem selbst fahrendem Auto und einer automatischen Tierfüttermaschiene. 
+Am ersten Tag des Projekts überdenken wir unser Thema. Momentan schwanken wir zwischen einem Gimpel und einer automatischen Tierfüttermaschiene. 
 
