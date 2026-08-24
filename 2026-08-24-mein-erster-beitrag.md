@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mein erster Blog-Eintrag!"
-date: 2026-08-24 13:20:00 +0200
-categories: allgemein
+Titel: "Tag 1!"
+Datum: 2026-08-24 
+Kategorie: Themasuche 
 ---
 
-Hier beginnt der eigentliche Text deines Beitrags.
+### Themasuche
 
-### Eine Zwischenüberschrift
-Du kannst **fett schreiben**, Listen erstellen oder Links einfügen. GitHub Pages wandelt dies automatisch in eine schöne Webseite um.
+Am ersten Tag des Projekts überdenken wir unser Thema. Momentan schwanken wir zwischen einem selbst fahrendem Auto und einer automatischen Tierfüttermaschiene. 
+
