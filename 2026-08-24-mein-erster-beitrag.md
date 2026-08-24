@@ -6,5 +6,10 @@ Kategorie: Themasuche
 
 ### Themasuche
 
-Am ersten Tag des Projekts überdenken wir unser Thema. Momentan schwanken wir zwischen einem Gimpel und einer automatischen Tierfüttermaschiene. 
+Am ersten Tag des Projekts überdenken wir unser Thema. Momentan wollen wir eine Tierfüttermaschiene bauen. 
 
+Laut Recherche bräuchten wir:
+Mikrocontroller
+Servomotor
+Wägezellen-Set
+Kabel
