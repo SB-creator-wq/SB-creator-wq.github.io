@@ -1,6 +1,5 @@
 ---
-layout: post
-Titel: "Tag 1!"
+Titel: "Tag 1"
 Datum: 2026-08-24 
 Kategorie: Themasuche 
 ---
