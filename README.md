@@ -4,9 +4,8 @@
 <details>
 <summary>August</summary>
 
-* [Tag 1: Einführung GitHub  18.08.2026 ](#abschnitt-1)
-* [Tag 2: Themasuche  24.08.2026](#abschnitt-2)
-* [Tag 3: Recherche  25.08.2026](#abschnitt-3)
+* [Gehe zu Abschnitt 1](#tag-1-einführung-github--18082026)
+* [Gehe zu Abschnitt 2](#abschnitt-2)
 
 </details>
 
