@@ -1,9 +1,8 @@
 # SB-creator-wq.github.io
 
 ---
-Titel: "Tag 1"
-Datum: 2026-08-24 
-Kategorie: Themasuche 
+"Tag 1"                                                                              2026-08-24 
+
 ---
 
 ### Themasuche
