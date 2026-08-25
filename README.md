@@ -2,7 +2,7 @@
 
 ---
 <details>
-<summary>DeinWort</summary>
+<summary>August</summary>
 
 * [Link 1 Text](https://link1.de)
 * [Link 2 Text](https://link2.de)
