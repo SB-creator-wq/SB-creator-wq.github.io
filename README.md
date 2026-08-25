@@ -4,8 +4,11 @@
 <details>
 <summary>August</summary>
 
-* [Gehe zu Abschnitt 1](#tag-1-einführung-github--18082026)
-* [Gehe zu Abschnitt 2](#tag-2-themasuche--24082026)
+* [18.08.2026](#tag-1-einführung-github--18082026)
+* [24.08.2026](#tag-2-themasuche--24082026)
+* [25.08.2026](#tag-3-recherche--25082026)
+
+
 
 </details>
 
