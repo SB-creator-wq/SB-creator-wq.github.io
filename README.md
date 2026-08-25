@@ -22,7 +22,7 @@ Laut Recherche bräuchten wir:
 
 Nach etwas ausführlicher Recherche benötigen wir:  
   
-    Wägezellen 100g  
+  Wägezellen 100g  
   APKLVSR Servomotoren.  
 
 Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
