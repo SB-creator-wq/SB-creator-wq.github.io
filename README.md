@@ -21,8 +21,8 @@ Laut Recherche bräuchten wir:
 ### Tag 3: Recherche  25.08.2026
 
 Nach etwas ausführlicher Recherche benötigen wir:
-  Wägezellen 100g
-  APKLVSR Servomotoren.
+  Wägezellen 100g  
+  APKLVSR Servomotoren.  
 
 Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
   
