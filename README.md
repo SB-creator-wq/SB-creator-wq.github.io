@@ -6,7 +6,7 @@
 ---
 ### Tag 1: Einführung GitHub  18.08.2026
 
-Am zweiten Schultag hatten wir das erste Mal Profilseminar Physik. Wir wurden heute eingearbeitet in GitHub und haben angefangen uns über das Projekt Gedanken zu machen.
+Am zweiten Schultag hatten wir das erste Mal Profilseminar-Physik. Wir wurden heute eingearbeitet in GitHub und haben angefangen uns über das Projekt Gedanken zu machen.
 
 ### Tag 2: Themasuche  24.08.2026
 
