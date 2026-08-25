@@ -4,15 +4,14 @@
 <details>
 <summary>August</summary>
 
-* [Link 1 Text](https://link1.de)
-* [Link 2 Text](https://link2.de)
-* [Link 3 Text](https://link3.de)
+* [Tag 1: Einführung GitHub  18.08.2026 ](#abschnitt-1)
+* [Gehe zu Abschnitt 2](#abschnitt-2)
 
 </details>
 
 
 ---
-### Tag 1: Einführung GitHub  18.08.2026
+## Tag 1: Einführung GitHub  18.08.2026 
 
 Am zweiten Schultag hatten wir das erste Mal Profilseminar-Physik. Wir wurden heute eingearbeitet in GitHub und haben angefangen uns über das Projekt Gedanken zu machen.
 
