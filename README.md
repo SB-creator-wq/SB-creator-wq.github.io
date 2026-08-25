@@ -2,7 +2,7 @@
 
 ---
 <details>
-<summary> <h1></h1>August</summary>
+<summary> <h1>>August</summary>
 
 * [18.08.2026](#tag-1-einführung-github--18082026)
 * [24.08.2026](#tag-2-themasuche--24082026)
