@@ -1,6 +1,14 @@
 # SB-creator-wq.github.io
 
 ---
+<details>
+<summary>DeinWort</summary>
+
+* [Link 1 Text](https://link1.de)
+* [Link 2 Text](https://link2.de)
+* [Link 3 Text](https://link3.de)
+
+</details>
 
 
 ---
