@@ -22,7 +22,8 @@ Am zweiten Schultag hatten wir das erste Mal Profilseminar-Physik. Wir wurden he
 
 Am ersten Tag des Projekts überdenken wir unser Thema. Momentan wollen wir eine Tierfüttermaschiene bauen. 
 
-Laut Recherche bräuchten wir:                                                                                                                                                                                       
+Laut Recherche bräuchten wir: 
+
   Mikrocontroller  
   Servomotor  
   Wägezellen-Set  
