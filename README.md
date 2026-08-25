@@ -1,7 +1,7 @@
 # SB-creator-wq.github.io
 
 ---
-"Tag 1"                                                                                                         2026-08-24 
+Tag 1  24.08.2026 
 
 ---
 
@@ -10,7 +10,7 @@
 Am ersten Tag des Projekts überdenken wir unser Thema. Momentan wollen wir eine Tierfüttermaschiene bauen. 
 
 Laut Recherche bräuchten wir:                                                                                                                                                                                       
-  Mikrocontroller
-  Servomotor
-  Wägezellen-Set
-  Kabel
+  Mikrocontroller  
+  Servomotor  
+  Wägezellen-Set  
+  Kabel  
