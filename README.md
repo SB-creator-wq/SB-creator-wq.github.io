@@ -5,7 +5,8 @@
 <summary>August</summary>
 
 * [Tag 1: Einführung GitHub  18.08.2026 ](#abschnitt-1)
-* [Gehe zu Abschnitt 2](#abschnitt-2)
+* [Tag 2: Themasuche  24.08.2026](#abschnitt-2)
+* [Tag 3: Recherche  25.08.2026](#abschnitt-3)
 
 </details>
 
@@ -15,7 +16,7 @@
 
 Am zweiten Schultag hatten wir das erste Mal Profilseminar-Physik. Wir wurden heute eingearbeitet in GitHub und haben angefangen uns über das Projekt Gedanken zu machen.
 
-### Tag 2: Themasuche  24.08.2026
+## Tag 2: Themasuche  24.08.2026
 
 Am ersten Tag des Projekts überdenken wir unser Thema. Momentan wollen wir eine Tierfüttermaschiene bauen. 
 
@@ -25,7 +26,7 @@ Laut Recherche bräuchten wir:
   Wägezellen-Set  
   Kabel
   
-### Tag 3: Recherche  25.08.2026
+## Tag 3: Recherche  25.08.2026
 
 Nach etwas ausführlicher Recherche benötigen wir:  
   
