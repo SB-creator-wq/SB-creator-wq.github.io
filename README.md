@@ -20,7 +20,8 @@ Laut Recherche bräuchten wir:
   
 ### Tag 3: Recherche  25.08.2026
 
-Nach etwas ausführlicher Recherche benötigen wir:    
+Nach etwas ausführlicher Recherche benötigen wir:  
+  
     Wägezellen 100g  
   APKLVSR Servomotoren.  
 
