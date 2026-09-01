@@ -7,6 +7,13 @@
 * [18.08.2026](#tag-1-einführung-github--18082026)
 * [24.08.2026](#tag-2-themasuche--24082026)
 * [25.08.2026](#tag-3-recherche--25082026)
+* [31.08.2026](#tag-4-recherche--31082026)
+
+<details>
+<summary> <h1>September</summary>
+
+*[01.09.2026](#tag-5-3d-modellierung--01092026)
+
 
 
 
@@ -38,7 +45,7 @@ Nach etwas ausführlicher Recherche benötigen wir:
 
 Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
 
-##Tag 4: Recherche 31.08.2026
+##Tag 4: Recherche  31.08.2026
 
 Heute haben wir weitere Recherche betrieben und wollen uns an diesem Video orientieren: https://www.heise.de/ratgeber/Katzenfuetterungsautomat-mit-Arduino-Mikrocontroller-4663149.html.
 
