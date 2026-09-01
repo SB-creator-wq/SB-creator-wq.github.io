@@ -9,7 +9,7 @@
 * [25.08.2026](#tag-3-recherche--25082026)
 * [31.08.2026](#tag-4-recherche--31082026)
 </details>
----
+
 <details>
 <summary> <h1>September</summary>
 
