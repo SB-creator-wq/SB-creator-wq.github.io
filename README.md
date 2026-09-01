@@ -55,6 +55,7 @@ Heute haben wir weitere Recherche betrieben und wollen uns an diesem Video orien
 Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu modellieren.
 
 <img src="Schraube.png" >
+<!! Wasser durch gravitation Strohalm!!>
 
   
   
