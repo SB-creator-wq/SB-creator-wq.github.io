@@ -45,11 +45,11 @@ Nach etwas ausführlicher Recherche benötigen wir:
 
 Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
 
-##Tag 4: Recherche  31.08.2026
+## Tag 4: Recherche  31.08.2026
 
 Heute haben wir weitere Recherche betrieben und wollen uns an diesem Video orientieren: https://www.heise.de/ratgeber/Katzenfuetterungsautomat-mit-Arduino-Mikrocontroller-4663149.html.
 
-##Tag 5: 3D-Modellierung 1.09.2026
+## Tag 3: 3D-Modellierung  01.09.2026
 
 Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu modellieren.
 
