@@ -8,8 +8,9 @@
 * [24.08.2026](#tag-2-themasuche--24082026)
 * [25.08.2026](#tag-3-recherche--25082026)
 * [31.08.2026](#tag-4-recherche--31082026)
-
+</details>
 ---
+<details>
 <summary> <h1>September</summary>
 
 *[01.09.2026](#tag-5-3d-modellierung--01092026)
@@ -49,7 +50,7 @@ Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
 
 Heute haben wir weitere Recherche betrieben und wollen uns an diesem Video orientieren: https://www.heise.de/ratgeber/Katzenfuetterungsautomat-mit-Arduino-Mikrocontroller-4663149.html.
 
-## Tag 3: 3D-Modellierung  01.09.2026
+## Tag 5: 3D-Modellierung  01.09.2026
 
 Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu modellieren.
 
