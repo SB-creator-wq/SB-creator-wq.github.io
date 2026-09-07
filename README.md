@@ -14,6 +14,7 @@
 <summary> <h1>September</summary>
 
 *[01.09.2026](#tag-5-3d-modellierung--01092026)
+*[07.09.2026](#tag-6-3d-modellierung--07092026)
 
 
 
@@ -57,7 +58,7 @@ Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu mo
 <img src="Schraube.png" >
 <!! Wasser durch gravitation Strohalm!!>
 
-##Tag 6: 3D-Modellierung 07.09.2026
+## Tag 6: 3D-Modellierung  07.09.2026
 
 Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile: 
 
@@ -67,6 +68,8 @@ Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile:
 <li>DS3231 RTC-Modul</li>
 <li>HC-SR04</li>
 </ul>
+
+
   
   
 
