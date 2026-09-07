@@ -57,6 +57,16 @@ Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu mo
 <img src="Schraube.png" >
 <!! Wasser durch gravitation Strohalm!!>
 
+##Tag 6: 3D-Modellierung 07.09.2026
+
+Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile: 
+
+<ul>
+<li>arduino uno r4 wifi</li>
+<li>MG996R Servo</li>
+<li>DS3231 RTC-Modul</li>
+<li>HC-SR04</li>
+</ul>
   
   
 
