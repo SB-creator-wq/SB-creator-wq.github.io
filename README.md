@@ -57,7 +57,7 @@ Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu mo
 
 ## Tag 6: 3D-Modellierung  07.09.2026
 
-Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile: 
+Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile bestellt: 
 
 <ul>
 <li>arduino uno r4 wifi</li>
