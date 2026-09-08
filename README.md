@@ -66,6 +66,11 @@ Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile:
 <li>HC-SR04</li>
 </ul>
 
+## Tag 7: Schaltkreisdesign  08.09.2026
+
+Heute haben wir den Prototyp der Schraube begonnen zu drucken und den Schaltkreis in unser Modell eingefügt.
+
+<img src="Model.png">
 
   
   
