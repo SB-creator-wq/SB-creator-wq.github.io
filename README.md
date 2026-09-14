@@ -76,6 +76,11 @@ Heute haben wir den Prototyp der Schraube begonnen zu drucken und den Schaltkrei
 
 <img src="Model.png">
 
+## Tag 8: 3D-Modellierung  14.09.2026
+
+Wir haben heute noch einmal mit dem 3D-Modellieren angefangen und erweitern unsere Blender Kenntnisse. 
+
+
   
   
 
