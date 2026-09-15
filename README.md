@@ -2,7 +2,8 @@
 
 ---
 <details> 
- <summary>[Vorwort](#Vorwort) </summary> 
+ <summary><h1>Vorwort</h1> </summary> 
+ * [Vorwort](#vorwort)
 </details>
 <details>
 <summary> <h1>August</summary>
@@ -24,29 +25,23 @@
 
 
 ---
+## Vorwort
+
+Willkommen zu unserem Blog über unser Physikprofilseminar Projekt. Im ersten Halbjahr haben wir versucht eine automatische Hundefuttermaschine, so gut unsere Möglichkeiten es erlauben, zu bauen.
+
+
+
 ## Tag 1: Einführung GitHub  18.08.2026 
 
-Am zweiten Schultag hatten wir das erste Mal Profilseminar-Physik. Wir wurden heute eingearbeitet in GitHub und haben angefangen uns über das Projekt Gedanken zu machen.
+Am zweiten Schultag/ der ersten Profilseminarstunde haben wir uns in zweier Gruppen zusammengefunden und begannen uns in GitHub einzuarbeiten. Heute haben wir auch schonmal angefangen Gedanken über unser Thema zu machen. Gerade schwanken wir zwischen einem Gimpel und einer automatischen Hundefuttermaschine.  
 
 ## Tag 2: Themasuche  24.08.2026
 
-Am ersten Tag des Projekts überdenken wir unser Thema. Momentan wollen wir eine Tierfüttermaschiene bauen. 
-
-Laut Recherche bräuchten wir: 
-
-  Mikrocontroller  
-  Servomotor  
-  Wägezellen-Set  
-  Kabel
+Am zweiten Projekttag haben wir uns für das Thema einer Hundefuttermaschine entschieden. Nachdem wir mehrere Professionelle design angeschaut haben entscheiden wir uns für ein Tornillo-System, wo eine Schraube das Essen "rausdreht". Den Tornillo und das Gehäuse nehmen wir von @maxilar20 bei Printables (https://www.printables.com/model/144105-iot-screw-dog-feeder/files). Wir erweitern dieses Design mit einem selbst designtem Trichter und einem App- System, womit wir die Fütterausgabe remote controllen können.
   
 ## Tag 3: Recherche  25.08.2026
 
-Nach etwas ausführlicher Recherche benötigen wir:  
-  
-  Wägezellen 100g  
-  APKLVSR Servomotoren.  
-
-Den Rest der benötigten Teile finden wir bei uns zuhause oder in der Schule.
+Heut
 
 ## Tag 4: Recherche  31.08.2026
 
