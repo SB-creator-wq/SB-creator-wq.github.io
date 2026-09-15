@@ -2,7 +2,7 @@
 
 ---
 <details> 
- * [Vorwort](#Vorwort)
+ <summary>[Vorwort](#Vorwort) </summary> 
 </details>
 <details>
 <summary> <h1>August</summary>
