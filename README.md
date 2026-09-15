@@ -58,6 +58,7 @@ Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interes
 
 ## Tag 5: 3D-Modellierung  01.09.2026
 
+Heute haben wir ein Tinkercard-Konto erstellt unser Tornillo eingefügt und ihn gedrückt 
 
 <img src="Schraube.png" >
 
