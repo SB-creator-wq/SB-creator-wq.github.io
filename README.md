@@ -41,11 +41,20 @@ Am zweiten Projekttag haben wir uns für das Thema einer Hundefuttermaschine ent
   
 ## Tag 3: Recherche  25.08.2026
 
-Heut
+Heute haben wir uns über die Teilauswahl Gedanken gemacht. Nach längerer Recherche benötigen wir:
+
+<ul>
+<li>arduino uno r4 wifi</li>
+<li>MG996R Servo</li>
+<li>DS3231 RTC-Modul</li>
+<li>HC-SR04</li>
+</ul>
+
+Der Arduino Uno R4 WiFi bietet uns hierbei perfekt die Remote Kontrollierte App Nutzung. Wir haben uns außerdem noch einen Sensor rausgesucht, welchen wir als Pfoten-Sensor für den Hund nutzen wollen. Diese Idee haben wir erstmals vom Creator EAZYTRONIC im Video: https://www.youtube.com/watch?v=dUB3-fEq5ss bekommen. Bis jetzt sind wir jedoch nicht sicher, ob dieser Sensor im endgültigen Design bleiben wird. 
 
 ## Tag 4: Recherche  31.08.2026
 
-Heute haben wir weitere Recherche betrieben und wollen uns an diesem Video orientieren: https://www.heise.de/ratgeber/Katzenfuetterungsautomat-mit-Arduino-Mikrocontroller-4663149.html.
+Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interessanten Artikel gefunden (https://www.heise.de/ratgeber/Katzenfuetterungsautomat-mit-Arduino-Mikrocontroller-4663149.html). Das Design mag zwar auf den ersten Blick nicht ähnlich wirken, nutzt jedoch trotzdem ein ähnliches Schrauben Design und hilft uns, als weitere Inspiration.
 
 ## Tag 5: 3D-Modellierung  01.09.2026
 
