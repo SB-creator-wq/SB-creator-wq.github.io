@@ -58,10 +58,8 @@ Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interes
 
 ## Tag 5: 3D-Modellierung  01.09.2026
 
-Wir haben heute begonnen Formen fürs 3D-Modelling rauszusuchen und selbst zu modellieren.
 
 <img src="Schraube.png" >
-<!! Wasser durch gravitation Strohalm!!>
 
 ## Tag 6: 3D-Modellierung  07.09.2026
 
@@ -76,7 +74,7 @@ Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile best
 
 ## Tag 7: Schaltkreisdesign  08.09.2026
 
-Heute haben wir den Prototyp der Schraube begonnen zu drucken und den Schaltkreis in unser Modell eingefügt.
+Heute haben wir uns ein Tinkercard-Konto erstellt und die 3D-Modelle eingefügt und angefangen zu drucken
 
 <img src="Model.png">
 
