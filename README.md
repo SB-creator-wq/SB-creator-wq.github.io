@@ -61,7 +61,7 @@ Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interes
 Heute haben wir ein Tinkercard-Konto erstellt unser Tornillo eingefügt und ihn gedrückt 
 
 <img src="Schraube.png" >
-<img src="Schraube2.png">
+<img src="Schraube2.png" width=400 style="transform: rotate (180 deg);">
 
 ## Tag 6: 3D-Modellierung  07.09.2026
 
