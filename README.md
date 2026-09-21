@@ -31,7 +31,6 @@
 Willkommen zu unserem Blog über unser Physikprofilseminar Projekt. Im ersten Halbjahr haben wir versucht eine automatische Hundefuttermaschine, so gut unsere Möglichkeiten es erlauben, zu bauen.
 
 
-
 ## Tag 1: Einführung GitHub  18.08.2026 
 
 Am zweiten Schultag/ der ersten Profilseminarstunde haben wir uns in zweier Gruppen zusammengefunden und begannen uns in GitHub einzuarbeiten. Heute haben wir auch schonmal angefangen Gedanken über unser Thema zu machen. Gerade schwanken wir zwischen einem Gimpel und einer automatischen Hundefuttermaschine.  
@@ -59,31 +58,30 @@ Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interes
 
 ## Tag 5: 3D-Modellierung  01.09.2026
 
-Heute haben wir ein Tinkercard-Konto erstellt unser Tornillo eingefügt und ihn gedrückt 
+Heute haben wir ein Tinkercard-Konto erstellt unser Tornillo eingefügt und ihn gedrückt. 
 
 <img src="Schraube.png" >
 <img src="Schraube2.png" width=400 style="transform: rotate (180 deg);">
 
+Das Produkt ist ziemlich zufriedenstellend, nur am Boden des Tornillos hatte der 3-Drucker Probleme mit der Rundung. Gerade müssen wir noch überlegen, wie wir das beim Endprodukt vermeiden.  
+
 ## Tag 6: 3D-Modellierung  07.09.2026
 
-Wir haben heute die 3D-Modellierung abgeschlossen und die benötigten Teile bestellt: 
+Heute drucken wir das Gehäuse des Tornillos in 0.5 Größe.
 
-<ul>
-<li>arduino uno r4 wifi</li>
-<li>MG996R Servo</li>
-<li>DS3231 RTC-Modul</li>
-<li>HC-SR04</li>
-</ul>
+<img src="Base.png">
+<img src="gedrucktebase.png">
+
+Das Gehäuse ist sehr gut rausgekommen und passt perfekt mit dem Tornillo zusammen, obwohl die Rundungen von diesem nicht perfekt rausgekommen sind.
 
 ## Tag 7: Schaltkreisdesign  08.09.2026
 
-Heute haben wir uns ein Tinkercard-Konto erstellt und die 3D-Modelle eingefügt und angefangen zu drucken
-
-<img src="Model.png">
 
 ## Tag 8: 3D-Modellierung  14.09.2026
 
-Wir haben heute noch einmal mit dem 3D-Modellieren angefangen und erweitern unsere Blender Kenntnisse. 
+ 
+
+## Tag 9: Programmierung  21.09.2026
 
 
   
