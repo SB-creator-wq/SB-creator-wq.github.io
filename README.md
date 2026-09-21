@@ -61,7 +61,7 @@ Heute haben wir die Teile bestellt und bei weiterer Recherche noch einen interes
 Heute haben wir ein Tinkercard-Konto erstellt unser Tornillo eingefügt und ihn gedrückt. 
 
 <img src="Schraube.png" >
-<img src="Schraube2.png" width=400 style="transform: rotate (180 deg);">
+<img src="Schraube2.jpeg" width=400 style="transform: rotate (180 deg);">
 
 Das Produkt ist ziemlich zufriedenstellend, nur am Boden des Tornillos hatte der 3-Drucker Probleme mit der Rundung. Gerade müssen wir noch überlegen, wie wir das beim Endprodukt vermeiden.  
 
