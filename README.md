@@ -76,6 +76,7 @@ Das Gehäuse ist sehr gut rausgekommen und passt perfekt mit dem Tornillo zusamm
 
 ## Tag 7: Schaltkreisdesign  08.09.2026
 
+Heute sind die Teile angekommen und wir haben uns angefangen mit der Programmiersprache und dem Aufbau eines Arduinos zu beschäftigen.
 
 ## Tag 8: 3D-Modellierung  14.09.2026
 
@@ -87,7 +88,7 @@ Heute haben wir uns im vorhinein schoneinmal mit der Programmierung beschäftigt
 
 ## Tag 10: Programmierung  28.09.2026
 
-
+Tinkercad 
   
   
 
