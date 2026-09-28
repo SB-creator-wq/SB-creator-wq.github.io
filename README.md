@@ -83,6 +83,10 @@ Das Gehäuse ist sehr gut rausgekommen und passt perfekt mit dem Tornillo zusamm
 
 ## Tag 9: Programmierung  21.09.2026
 
+Heute haben wir uns im vorhinein schoneinmal mit der Programmierung beschäftigt und uns zu möglicherweise aufkommenden Problemen eingelesen und dazu auf Tinkercad schon einmal mit einem Modell eine Simulation mit dem ersten Code durchgeführt. Vor allem haben wir uns heute mit der Zeitsteuerung unserer Tierfuttermaschine beschäftigt und uns dazu auf https://forum.arduino.cc/t/servo-nach-bestimmter-zeit-ansteuern/262647/5 im Arduino Forum eingelesen.
+
+## Tag 10: Programmierung  28.09.2026
+
 
   
   
