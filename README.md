@@ -107,7 +107,7 @@ Da wir nun schon ein eher fundiertes Verständnis über Arduinos und ihre Progra
 
 ## Tag 13: Schaltkreisdesign  28.09.2026
 
-  
+Heute haben wir das Tinkercad Model weiterentwickelt und uns Powerbanks angeschaut um zu sehen, ob wir unser Projekt über Batterie laufen lassen können.  
 
 
 
