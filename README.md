@@ -21,7 +21,10 @@
 * [01.09.2026](#tag-5-3d-modellierung--01092026)  
 * [07.09.2026](#tag-6-3d-modellierung--07092026)
 * [08.09.2026](#tag-7-schaltkreisdesign--08092026)
-* 
+* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
+ 
 </details>
 
 
@@ -80,16 +83,20 @@ Heute sind die Teile angekommen und wir haben uns angefangen mit der Programmier
 
 ## Tag 8: 3D-Modellierung  14.09.2026
 
- 
+## Tag 9: 3D-Modellierung  15.09.2026
 
-## Tag 9: Programmierung  21.09.2026
+## Tag 10: 3D-Modellierung  21.09.2026 
+
+## Tag 11: Programmierung  22.09.2026
 
 Heute haben wir uns im vorhinein schoneinmal mit der Programmierung beschäftigt und uns zu möglicherweise aufkommenden Problemen eingelesen und dazu auf Tinkercad schon einmal mit einem Modell eine Simulation mit dem ersten Code durchgeführt. Vor allem haben wir uns heute mit der Zeitsteuerung unserer Tierfuttermaschine beschäftigt und uns dazu auf https://forum.arduino.cc/t/servo-nach-bestimmter-zeit-ansteuern/262647/5 im Arduino Forum eingelesen.
 
-## Tag 10: Programmierung  28.09.2026
+## Tag 12: Programmierung  28.09.2026
 
 Tinkercad 
-  
+
+## Tag 13: Programmierung  28.09.2026
+
   
 
 
