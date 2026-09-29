@@ -20,11 +20,13 @@
 
 * [01.09.2026](#tag-5-3d-modellierung--01092026)  
 * [07.09.2026](#tag-6-3d-modellierung--07092026)
-* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
-* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
-* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
-* [08.09.2026](#tag-7-schaltkreisdesign--08092026)
- 
+* [08.09.2026](#tag-7-einführung-in-arduinos--08092026)
+* [08.09.2026](#tag-8-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-9-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-10-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-11-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-12-schaltkreisdesign--08092026)
+* [08.09.2026](#tag-13-schaltkreisdesign--08092026)
 </details>
 
 
@@ -77,25 +79,33 @@ Heute drucken wir das Gehäuse des Tornillos in 0.5 Größe.
 
 Das Gehäuse ist sehr gut rausgekommen und passt perfekt mit dem Tornillo zusammen, obwohl die Rundungen von diesem nicht perfekt rausgekommen sind.
 
-## Tag 7: Schaltkreisdesign  08.09.2026
+## Tag 7: Einführung in Arduinos 08.09.2026
 
-Heute sind die Teile angekommen und wir haben uns angefangen mit der Programmiersprache und dem Aufbau eines Arduinos zu beschäftigen.
+Heute sind die Teile angekommen und wir haben uns angefangen mit der Programmiersprache und dem Aufbau eines Arduinos zu beschäftigen. Videos die uns dabei halfen waren: https://www.youtube.com/watch?v=CQPTF6WixiA , https://www.youtube.com/watch?v=_W60alHOtqA.
 
-## Tag 8: 3D-Modellierung  14.09.2026
+## Tag 8: Einführung in Arduinos 14.09.2026
 
-## Tag 9: 3D-Modellierung  15.09.2026
+Heute haben wir uns weiterhin mit der Programmiersprache und der Verkabelung beschäftigt. Wir haben weiterhin mehrere Videos angesehen wie zum Beispiel: https://www.youtube.com/watch?v=kTUAoJMcCEc.
 
-## Tag 10: 3D-Modellierung  21.09.2026 
+## Tag 9: Einführung in Arduinos  15.09.2026
 
-## Tag 11: Programmierung  22.09.2026
+Heute haben wir unser Verständnis über die Programmiersprache gefestigt und in diesen Videokurs reingeschaurt: https://www.youtube.com/watch?v=kTUAoJMcCEc.
 
-Heute haben wir uns im vorhinein schoneinmal mit der Programmierung beschäftigt und uns zu möglicherweise aufkommenden Problemen eingelesen und dazu auf Tinkercad schon einmal mit einem Modell eine Simulation mit dem ersten Code durchgeführt. Vor allem haben wir uns heute mit der Zeitsteuerung unserer Tierfuttermaschine beschäftigt und uns dazu auf https://forum.arduino.cc/t/servo-nach-bestimmter-zeit-ansteuern/262647/5 im Arduino Forum eingelesen.
+## Tag 10: Einführung in Arduinos 21.09.2026 
 
-## Tag 12: Programmierung  28.09.2026
+Auch diese Woche beschäftigen wir uns mit dem lernen der Programmiersprache und werden den restlichen Videokurs ansehen.
 
-Tinkercad 
+## Tag 11: Einführung in Arduinos  22.09.2026
 
-## Tag 13: Programmierung  28.09.2026
+Heute haben wir uns den restlichen Videokurs weiter angesehen und haben im Arduino Forum (https://forum.arduino.cc/t/servo-nach-bestimmter-zeit-ansteuern/262647/5) zur Zeitsteuerung eingelesen.
+
+## Tag 12: Schaltkreisdesign  28.09.2026
+
+Da wir nun schon ein eher fundiertes Verständnis über Arduinos und ihre Programmiersprache haben, haben wir uns in Tinkercad am schaltkreisdesign versucht.
+
+<img src="Schaltkreisdesign">
+
+## Tag 13: Schaltkreisdesign  28.09.2026
 
   
 
