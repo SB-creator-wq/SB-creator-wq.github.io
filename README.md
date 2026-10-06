@@ -115,5 +115,6 @@ Heute war eigentlich geplant den fertigen 3D-Druck und Arduino zusammenzuführen
 
 ## Tag 15: Schaltkreisdesign  05.10.2026
 
+Heute haben wir den Arduino programmiert und es geschafft ihn auf Knopfdruck den Servo drehen zu lasse.
 
 
