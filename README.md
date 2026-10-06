@@ -113,3 +113,7 @@ Heute haben wir das Tinkercad Model weiterentwickelt und uns Powerbanks angescha
 
 Heute war eigentlich geplant den fertigen 3D-Druck und Arduino zusammenzuführen, dadurch das das Fillement aber beschädigt geliefert wurde haben wir heute erstmal den kleinen Prototypen genutzt und mit dem Programmieren angefangen.
 
+## Tag 15: Schaltkreisdesign  05.10.2026
+
+
+
