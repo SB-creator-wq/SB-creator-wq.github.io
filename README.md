@@ -117,4 +117,6 @@ Heute war eigentlich geplant den fertigen 3D-Druck und Arduino zusammenzuführen
 
 Heute haben wir den Arduino programmiert und es geschafft ihn auf Knopfdruck den Servo drehen zu lasse.
 
+Tag 16: Fertiges Produkt 26.10.26
 
+Forschen am echten 3d druck
