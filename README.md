@@ -121,4 +121,4 @@ Heute haben wir den Arduino programmiert und es geschafft ihn auf Knopfdruck den
 
 Heute haben wir den fertigen 3D-Druck genutzt, um schonmal erste Zeitmessdaten zu sammeln, damit wir wissen wie lange der Motor ungefähr laufen muss.
 
-<img src="3d-druck-fertig.jpg">
+<img src="IMG_0876.jpg">
