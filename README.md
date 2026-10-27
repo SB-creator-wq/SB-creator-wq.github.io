@@ -117,6 +117,8 @@ Heute war eigentlich geplant den fertigen 3D-Druck und Arduino zusammenzuführen
 
 Heute haben wir den Arduino programmiert und es geschafft ihn auf Knopfdruck den Servo drehen zu lasse.
 
-Tag 16: Fertiges Produkt 26.10.26
+## Tag 16: Forschen und Messdaten sammeln am fertigen Produkt 26.10.2026
 
-Forschen am echten 3d druck
+Heute haben wir den fertigen 3D-Druck genutzt, um schonmal erste Zeitmessdaten zu sammeln, damit wir wissen wie lange der Motor ungefähr laufen muss.
+
+<img src="3d-druck-fertig">
