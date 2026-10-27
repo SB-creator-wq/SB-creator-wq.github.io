@@ -122,3 +122,7 @@ Heute haben wir den Arduino programmiert und es geschafft ihn auf Knopfdruck den
 Heute haben wir den fertigen 3D-Druck genutzt, um schonmal erste Zeitmessdaten zu sammeln, damit wir wissen wie lange der Motor ungefähr laufen muss.
 
 <img src="IMG_0876.jpg">
+
+## Tag 17: App-Design 27.10.2026
+
+Nachdem wir gestern unsere ersten Messdaten bekommen haben, konnten wir heute am App-Design und Programmierung arbeiten, die später alle Werte kontrolliert.
