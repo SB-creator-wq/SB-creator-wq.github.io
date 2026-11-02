@@ -129,4 +129,4 @@ Nachdem wir gestern unsere ersten Messdaten bekommen haben, konnten wir heute am
 
 ## Tag 18: App-Design 02.11.2026
 
-Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variablen festgelegt. Das Design haben wir auch verfeinert. 
+Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variablen festgelegt. Das Design haben wir auch verfeinert mit figma. 
