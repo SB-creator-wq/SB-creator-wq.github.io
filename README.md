@@ -126,3 +126,7 @@ Heute haben wir den fertigen 3D-Druck genutzt, um schonmal erste Zeitmessdaten z
 ## Tag 17: App-Design 27.10.2026
 
 Nachdem wir gestern unsere ersten Messdaten bekommen haben, konnten wir heute am App-Design und Programmierung arbeiten, die später alle Werte kontrolliert.
+
+## Tag 18: App-Design 02.11.2026
+
+Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variablen festgelegt. Das Design haben wir auch verfeinert. 
