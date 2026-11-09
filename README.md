@@ -29,6 +29,14 @@
 * [08.09.2026](#tag-13-schaltkreisdesign--08092026)
 </details>
 
+<details>
+<summary> <h1>November</summary>
+
+* [02.11.2026](#tag-18-app-design--02112026)  
+* [03.11.2026](#tag-6-3d-modellierung--07092026)
+* [09.11.2026](#tag-7-einführung-in-arduinos--08092026)
+</details>
+
 
 ---
 ## Vorwort
@@ -129,8 +137,10 @@ Nachdem wir gestern unsere ersten Messdaten bekommen haben, konnten wir heute am
 
 ## Tag 18: App-Design 02.11.2026
 
-Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variablen festgelegt. Das Design haben wir auch verfeinert mit figma. 
+Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variablen festgelegt.
 
 ## Tag 19: Internetverbindung 03.11.2026
 
 Heute haben wir es geschafft den Arduino mit dem Internet zu verbinden.
+
+## Tag 20: Bluetooth Verbindung 09.11.2026
