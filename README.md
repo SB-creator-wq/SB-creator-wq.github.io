@@ -144,3 +144,5 @@ Heute haben wir mit dem coden der App angefangen und schonmal die ersten Variabl
 Heute haben wir es geschafft den Arduino mit dem Internet zu verbinden.
 
 ## Tag 20: Bluetooth Verbindung 09.11.2026
+
+Heute habe ich versucht den Arduino R$ Wifi mit Bluetooth zu verbinden um ihn später über die Arduino Cloud zu steuern.
