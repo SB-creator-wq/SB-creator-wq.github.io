@@ -146,3 +146,13 @@ Heute haben wir es geschafft den Arduino mit dem Internet zu verbinden.
 ## Tag 20: Bluetooth Verbindung 09.11.2026
 
 Heute habe ich versucht den Arduino R4 Wifi mit Bluetooth zu verbinden um ihn später über die Arduino Cloud zu steuern.
+
+## Tag 20: Krank 10.11.2026
+
+## Tag 21: Verbindung mit Arduino io t Cloud Remote 16.11.2026
+
+Wir haben heute versucht den Arduino R4 Wifi mit der Arduino io t Cloud Remote zu verbinden um ihn später über das Internet zu kontrollieren. Morgen müssen wir weiter an der Verbindung basteln.
+
+## Tag 22: Verbindung mit Arduino io t Cloud Remote 17.11.2026
+
+Heute sind wir weiter gekommen mit der Verbindung aber sie ist immer noch nicht fertig.
