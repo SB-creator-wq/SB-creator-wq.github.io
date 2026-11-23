@@ -153,6 +153,10 @@ Heute habe ich versucht den Arduino R4 Wifi mit Bluetooth zu verbinden um ihn sp
 
 Wir haben heute versucht den Arduino R4 Wifi mit der Arduino io t Cloud Remote zu verbinden um ihn später über das Internet zu kontrollieren. Morgen müssen wir weiter an der Verbindung basteln.
 
+## Tag 22: Verbindung mit Blynk 23.11.2026
+
+Wir verbinden den Arduino R4 Wifi nun mit Blynk anstatt der Arduino Cloud, da Blynk uns mehr Features bietet.
+
 ## Tag 22: Verbindung mit Arduino io t Cloud Remote 17.11.2026
 
 Heute sind wir weiter gekommen mit der Verbindung aber sie ist immer noch nicht fertig.
