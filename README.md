@@ -160,3 +160,5 @@ Wir verbinden den Arduino R4 Wifi nun mit Blynk anstatt der Arduino Cloud, da Bl
 ## Tag 22: Verbindung mit Arduino io t Cloud Remote 17.11.2026
 
 Heute sind wir weiter gekommen mit der Verbindung aber sie ist immer noch nicht fertig.
+
+Heute haben wir das basis Modell unserer App mit Blynk zum laufen gebracht, danach haben wir uns weiter mit dem Design beschäftigt und den Code durch Hinweise/Anmerkungen versucht verständlicher zu machen
